@@ -1,2 +1,3 @@
 # blogs_backend
-Backend for blogs app
+This is back end for blogs app
+ - front end available: https://github.com/kolkri/fullstackopen2022_part5
